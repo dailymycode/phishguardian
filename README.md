@@ -26,12 +26,11 @@ pip install streamlit
 
 To use the Gemini model, you'll need an API key.
 
-1. Get a free API key from [Google AI Studio](https://makersuite.google.com/app).
+1. Get a free API key from (https://ai.google.dev/gemini-api/docs?hl=en).
 2. In your project root directory, create a `.env` file and add the following line:
 
 ## ▶️ Run the App
 
 After installing the dependencies and setting up your API key, you can start the application with the following command:
-
 
 streamlit run app.py
